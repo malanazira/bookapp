@@ -1,0 +1,4 @@
+#Fri Oct 20 20:00:45 WIB 2023
+base.0=D\:\\PraktikumMobile\\Project1\\bookapp\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
